@@ -71,6 +71,22 @@ Bradbury's Mars: Biographical, Anthropological, Literary, Scientific and Other P
 <li><a target="_blank" href="https://github.com/manjunath5496/Books-about-Mars/blob/master/mars(37).pdf" style="text-decoration:none;">Why Mars: NASA and the Politics of Space Exploration</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Books-about-Mars/blob/master/mars(38).pdf" style="text-decoration:none;">Exploring Mars: Chronicles from a Decade of Discovery</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Books-about-Mars/blob/master/mars(39).pdf" style="text-decoration:none;">The NASA Conspiracies: The Truth Behind the Moon Landings, Censored Photos, and The Face on Mars</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Books-about-Mars/blob/master/mars(41).pdf" style="text-decoration:none;">Packing for Mars
+</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Books-about-Mars/blob/master/mars(42).pdf" style="text-decoration:none;">Can You Play Cricket on Mars? And Other Scientific Questions Answered</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Books-about-Mars/blob/master/mars(43).pdf" style="text-decoration:none;">The Engineer: Follow Elon Musk on a journey from South Africa to Mars</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Books-about-Mars/blob/master/mars(44).pdf" style="text-decoration:none;">The Sands of Mars
+</a></li>
+
+
 
 
 
