@@ -65,6 +65,10 @@ Bradbury's Mars: Biographical, Anthropological, Literary, Scientific and Other P
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Books-about-Mars/blob/master/mars(32).pdf" style="text-decoration:none;">Human Exploration of Mars: The Reference Mission of the NASA Mars Exploration Study Team</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Books-about-Mars/blob/master/mars(33).pdf" style="text-decoration:none;">Camille Flammarion's The Planet Mars</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Books-about-Mars/blob/master/mars(34).pdf" style="text-decoration:none;">Human Exploration of Mars: The Reference Mission of the NASA Mars Exploration Study Team</a></li>
+
 <li><a target="_blank" href="https://github.com/manjunath5496/Books-about-Mars/blob/master/mars(36).pdf" style="text-decoration:none;">Geographies of Mars
 </a></li>
 
